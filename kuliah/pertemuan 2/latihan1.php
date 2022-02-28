@@ -44,4 +44,7 @@ echo "<hr>";
 // Identitas 
 // ===, !==
 echo 10 === "10";
+
+// Logika
+// &&, || , !
 ?>
